@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ramkumar K R
 ====================================================================================================================================
 
-Machine Learning | CLOUD | CP
+Machine Learning | WEB-DEV | CP
 -----------------------------
 
 👋 Hi, I'm Ramkumar K R! 🎓 First-year AI/ML student at Amrita Vishwa Vidyapeetham 🤖 Passionate about Machine Learning, Deep Learning, and Competitive Programming 💻 Exploring Web Development, Cloud Computing, NLP, and Computer Vision  🚀 Open to collaborations on AI, ML, and Data Science projects 📌 Check out my projects and feel free to connect! ---
