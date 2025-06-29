@@ -1,7 +1,7 @@
 MACHINE LEARNING|DEEP LEARNING|MERN|CP
 -----------------------------
 
-👋 Hi, I'm Ramkumar K R! 🎓 First-year AI/ML student at Amrita Vishwa Vidyapeetham 🤖 Passionate about Machine Learning, Deep Learning, and Competitive Programming 💻 Exploring Web Development, Cloud Computing, NLP, and Computer Vision  🚀 Open to collaborations on AI, ML, and Data Science projects 📌 Check out my projects and feel free to connect! ---
+👋 Hi, I'm Ramkumar K R! 🎓 Second-year CSE(AI) student at Amrita Vishwa Vidyapeetham 🤖 Passionate about Machine Learning, Deep Learning, and Competitive Programming 💻 Exploring Web Development, Cloud Computing, NLP, and Computer Vision  🚀 Open to collaborations on AI, ML, and Data Science projects 📌 Check out my projects and feel free to connect! ---
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [krramkumar2006g@gmail.com](mailto:krramkumar2006g@gmail.com)
