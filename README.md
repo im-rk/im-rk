@@ -1,4 +1,3 @@
-# 💫 About Me:
 Hi, I'm Ramkumar K R! 🎓 Second-year CSE(AI) student at Amrita Vishwa Vidyapeetham.
 
 
